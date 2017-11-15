@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SDRCAR</string>
+    <string name="INIT_ERROR">Error</string>
+    <string name="INIT_ERROR_DEVICE_NOT_SUPPORTED">Failed to initialize Vuforia. This device is not supported.</string>
+    <string name="INIT_ERROR_NO_CAMERA_ACCESS">Failed to initialize Vuforia. Camera not accessible</string>
+    <string name="INIT_LICENSE_ERROR_MISMATCH_KEY">Vuforia App key is not valid for this product. Please get a valid key, by logging into your account at developer.vuforia.com and choosing the right product type during project creation.</string>
+    <string name="INIT_LICENSE_ERROR_MISSING_KEY">Vuforia App key is missing. Please get a valid key, by logging into your account at developer.vuforia.com and creating a new project.</string>
+    <string name="INIT_LICENSE_ERROR_INVALID_KEY">Invalid Key used. Please make sure you are using a valid Vuforia App Key.</string>
+    <string name="INIT_LICENSE_ERROR_NO_NETWORK_TRANSIENT">Unable to contact server. Please try again later.</string>
+    <string name="INIT_LICENSE_ERROR_NO_NETWORK_PERMANENT">No network available. Please make sure you are connected to the Internet.</string>
+    <string name="INIT_LICENSE_ERROR_CANCELED_KEY">This app license key has been canceled and may no longer be used. Please get a new license key.</string>
+    <string name="INIT_LICENSE_ERROR_PRODUCT_TYPE_MISMATCH">Vuforia App key is not valid for this product. Please get a valid key, by logging into your account at developer.vuforia.com and choosing the right product type during project creation.</string>
+    <string name="INIT_LICENSE_ERROR_UNKNOWN_ERROR">Failed to initialize Vuforia.</string>
+    <string name="INIT_OBJECT_DATASET_NOT_FOUND_TITLE">Database not found</string>
+    <string name="INIT_OBJECT_DATASET_NOT_FOUND">Please scan an object and load a database</string>
+    <string name="button_OK">OK</string>
+    <string name="banners">Banners / Posters</string>
+    <string name="factsheets">Factsheets</string>
+    <string name="about_us_text">Siddha Development Research and Consultancy (P) Ltd, hereafter referred to as SDRC, is a for profit social enterprise.\n Our mission is to be a trusted partner to enable social change initiatives.\n We approach this objective by serving policy makers, implementers, and peoples representatives worldwide to drive effective governance and human development initiatives.
+    \nTeam SDRC is an eclectic mix of software and human development professionals with more than 100 years of combined experience in development decision support systems, learning, and research initiatives. \nWe are passionate about leveraging our unique blend of technical and functional skills to become a sought-after center of excellence to deliver high quality and affordable products and services.\nFunctioning as a team of reflective professionals, we practice the following core values:\n1. Maintain integrity, trust, transparency, and respect in our transactions;\n
+2.Diffuse our learning to empower, engender, and emancipate stakeholders;\n
+3. Be humble and critically self-reflective of our actions\nSDRC is organized around three core practice areas - Research and Advocacy; Learning Initiatives, and Management Systems. \nSDRC believes its research and advocacy practice will provide deep and critical insights which will be further consolidated and diffused amongst the stakeholders through learning initiatives. \nInnovating approaches towards managing social change initiatives will enable empowered stakeholders leverage the new insights and concert greater efficiency, effectiveness, and impact.
+\nSDRC adheres to industry standard practices in organizing its every day processes and functions. Further to this commitment, SDRC has acquired ISO 9001:2008 Quality Management System and ISO 27001:2013 Information Security System licenses. We have been incorporated as a private limited company since 2010.
+    </string>
+    <string name="dp_text">A graduate of IIT Kharagpur and Xavier Institute of Management, Bhubaneswar, Professor Dash has a PhD in management and systems thinking from University of Lincoln, UK, and more than 20 years of experience in teaching, research, and consultancy, in fields related to organizational management, participatory planning, open learning and innovation, and human development. As the founding editor of the open-access Journal of Research Practice (JRP), he anchors a large network of scholars and professionals from around the world, representing multiple disciplines and fields. He brings a trans-disciplinary and intercultural perspective to business and social issues, and can often see promising alternatives in situations that appear like dead-ends.</string>
+    <string name="ratnakar_text">Ratnakar holds a Masters degree in sociology from Utkal University and studied entrepreneurship at Xavier Institute of Management, Bhubaneswar. He has over ten years of social sector experience in conducting and managing action research, designing and delivering learning interventions, and implementing decision support systems. He has worked with academic institutions, NGOs, UN agencies and private sector IT companies. He has travelled widely and facilitated training and technical support missions across India, Afghanistan, Algeria, Mozambique, Mongolia, Solomon Islands, UN headquarters (New York), UN System Staff College (Turin), UN office at Geneva and several other countries across Asia, Africa and the Pacific region</string>
+    <string name="ranjana_text">Ranjana holds a Masters degree in psychology from Delhi University and a diploma in industrial relations and personnel management. She is trained in applying gender mainstreaming practices from Interaction, US and IIRR, Philippines. She has more than a decades experience in the fields of gender mainstreaming, participatory research, training, organizational development (OD), and policy advocacy. Ranjana is very passionate about human rights issues and dreams of living in a society that is free from all forms of discrimination, deprivation and marginalization, and treats all its members (irrespective of sex, caste or religion) with equal respect and dignity.</string>
+
+    <string name="address">Plot no - A/63, Industrial Area\n
+Kharvela Nagar, UNIT - III\n
+Bhubaneswar - 751001\n
+Odisha, India\n
+Landline - 0674-2380804</string>
+    <string name="research_text">Research and Advocacy Conduct Social Research Studies. Liaise build networks and alliances to promote a culture of evidence. Advocacy for influencing policy,behavioural change communication.</string>
+    <string name="learning_text">Harness open ICT systems for advocacy. Integrate gender in social change initiatives. Participatory, Qualitative and Quantitative research skills.</string>
+    <string name="management_text">Integrated data management solutions. Build,deploy and manage decision support systems. Project/Programme planning and management framework.</string>
+</resources>
+
